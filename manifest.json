@@ -1,0 +1,10 @@
+{
+  "name": "Bitácora — Supervisión de trabajos",
+  "short_name": "Bitácora",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EEF1F3",
+  "theme_color": "#16222C",
+  "lang": "es"
+}
