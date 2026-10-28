@@ -1,6 +1,4 @@
-// Datos del proyecto de Supabase (Project Settings → API).
-// La "anon key" es pública por diseño: la seguridad la dan las políticas RLS de supabase/schema.sql.
 window.BITACORA_CONFIG = {
-  SUPABASE_URL: "https://TU-PROYECTO.supabase.co",
-  SUPABASE_ANON_KEY: "TU-ANON-KEY"
+  SUPABASE_URL: "https://dojnihujksywflnbkspm.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_M0y1kyvZnHgqVwu4-zIaow_D-IIw2Ry"
 };
